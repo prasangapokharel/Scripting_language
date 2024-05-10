@@ -1,0 +1,213 @@
+Sure, here's a list of the top 50 multiple-choice questions (MCQs) that are likely to be relevant for a Bachelor of Computer Applications (BCA) or similar courses with a focus on scripting languages. These questions cover general scripting language concepts, JavaScript, and other related areas. For each question, I've provided four options and circled the correct answer in **bold**.
+
+1. What is a scripting language primarily used for?
+   - a) Hardware control
+   - b) **Automation and dynamic content generation**
+   - c) Operating system development
+   - d) Database management
+
+2. Which of the following is a popular scripting language for web development?
+   - a) C++
+   - b) **JavaScript**
+   - c) Python
+   - d) Ruby
+
+3. What does "DOM" stand for in web development?
+   - a) Data Object Model
+   - b) **Document Object Model**
+   - c) Dynamic Object Model
+   - d) Digital Object Model
+
+4. Which of the following methods can be used to add an event listener in JavaScript?
+   - a) addListener
+   - b) attachEvent
+   - c) **addEventListener**
+   - d) listenForEvent
+
+5. What is the purpose of the `alert` function in JavaScript?
+   - a) To alert the server of an error
+   - b) To send a message to the developer
+   - c) To create a pop-up warning
+   - d) **To display a simple message to the user**
+
+6. What is the difference between `==` and `===` in JavaScript?
+   - a) `==` checks value and type, `===` checks only value
+   - b) `==` checks only value, `===` checks value and type
+   - c) `==` is for numbers, `===` is for strings
+   - d) **`==` checks only value, `===` checks both value and type**
+
+7. What does AJAX stand for?
+   - a) Asynchronous JavaScript and XML
+   - b) **Asynchronous JavaScript and XML**
+   - c) Advanced JavaScript and XML
+   - d) Automatic JavaScript and XML
+
+8. What is the correct syntax to select an element by ID in JavaScript?
+   - a) **document.getElementById("example")**
+   - b) document.querySelector("#example")
+   - c) document.selectById("example")
+   - d) document.getId("example")
+
+9. Which of the following is NOT a common JavaScript data type?
+   - a) **Boolean**
+   - b) Number
+   - c) Dictionary
+   - d) String
+
+10. Which method can be used to prevent the default behavior of an event in JavaScript?
+   - a) stopDefault
+   - b) preventDefault
+   - c) **preventDefault**
+   - d) haltDefault
+
+11. What does the `push` method do in a JavaScript array?
+   - a) Adds an item to the beginning of an array
+   - b) Removes an item from the end of an array
+   - c) **Adds an item to the end of an array**
+   - d) Removes an item from the beginning of an array
+
+12. What is the default HTTP method used when submitting a form with no specified method?
+   - a) PUT
+   - b) DELETE
+   - c) **GET**
+   - d) POST
+
+13. Which of the following is a JavaScript object representing the browser's window?
+   - a) **window**
+   - b) screen
+   - c) document
+   - d) browser
+
+14. How do you create a function in JavaScript?
+   - a) functionName() {}
+   - b) function functionName() {}
+   - c) **function functionName() {}**
+   - d) createFunction functionName() {}
+
+15. Which of the following is the correct way to define an array in JavaScript?
+   - a) **let arr = [1, 2, 3];**
+   - b) let arr = {1, 2, 3};
+   - c) let arr = "1, 2, 3";
+   - d) let arr = 1, 2, 3;
+
+16. What does the `splice` method do in a JavaScript array?
+   - a) Removes items from an array
+   - b) **Removes or adds items at a specific index**
+   - c) Replaces items in an array
+   - d) Adds items to an array
+
+17. What does the `this` keyword refer to in a JavaScript function context?
+   - a) The global object
+   - b) The parent object
+   - c) **The current context**
+   - d) The window object
+
+18. Which of the following is NOT a type of loop in JavaScript?
+   - a) **foreach**
+   - b) for
+   - c) while
+   - d) do-while
+
+19. What does JSON stand for?
+   - a) JavaScript Object Notation
+   - b) **JavaScript Object Notation**
+   - c) JavaScript Oriented Notation
+   - d) JavaScript Oriented Naming
+
+20. What is the main advantage of using jQuery in web development?
+   - a) It replaces JavaScript
+   - b) **It simplifies common JavaScript tasks**
+   - c) It is faster than JavaScript
+   - d) It is easier to learn than JavaScript
+
+21. Which method is used to convert a JavaScript object into a JSON string?
+   - a) parse
+   - b) **stringify**
+   - c) serialize
+   - d) convert
+
+22. How do you create an anonymous function in JavaScript?
+   - a) functionName: function() {}
+   - b) **function() {}**
+   - c) createAnonymous() {}
+   - d) anonymousFunction() {}
+
+23. What is the purpose of the `setTimeout` function in JavaScript?
+   - a) To schedule a function to run after a delay
+   - b) To set a timeout limit for a function
+   - c) **To execute a function after a specific time delay**
+   - d) To clear a timeout
+
+24. What is the correct syntax for using JavaScript's `alert` function?
+   - a) **alert("Hello, world!");**
+   - b) alert(Hello, world!);
+   - c) alert{"Hello, world!"};
+   - d) showAlert("Hello, world!");
+
+25. Which method is used to add new elements to the DOM in JavaScript?
+   - a) createElement
+   - b) **appendChild**
+   - c) insertElement
+   - d) addChild
+
+26. What is the `innerHTML` property in JavaScript?
+   - a) The property that represents the HTML inside an element
+   - b) The property used to set the HTML inside an element
+   - c) **Both a and b**
+   - d) None of the above
+
+27. What does the `typeof` operator do in JavaScript?
+   - a) **Determines the data type of a variable**
+   - b) Converts a variable to a specific type
+   - c) Identifies the class of a variable
+   - d) Converts a string to a number
+
+28. What is the correct syntax for creating a new object in JavaScript?
+   - a) **let obj = {};**
+   - b) let obj = [];
+   - c) let obj = new Object;
+   - d) let obj = new Object();
+
+29. What does the `forEach` method do in JavaScript?
+   - a) **Iterates over each item in an array**
+   - b) Adds a new item to an array
+   - c) Converts an array to a string
+   - d) Removes an item from an array
+
+30. What is the result of `"10" + 2` in JavaScript?
+   - a) **"102"**
+   - b) 12
+   - c) 22
+   - d) Error
+
+31. What is the correct way to comment in JavaScript?
+   - a) **// Single line comment**
+   - b) /* Single line comment */
+   - c) -- Single line comment
+   - d) # Single line comment
+
+32. What does the `Math.random()` function return in JavaScript?
+   - a) **A random number between 0 and 1**
+   - b) A random integer between 0 and 10
+   - c) A random float between 0 and 100
+   - d) A random integer between 1 and 100
+
+33. What does the `length` property return for an array in JavaScript?
+   - a) The total number of elements in an array
+   - b) The index of the last element in an array
+   - c) **The total number of elements in an array**
+   - d) The index of the first element in an array
+
+34. What is the result of `"20" - 5` in JavaScript?
+   - a) **15**
+   - b) "205"
+   - c) "15"
+   - d) Error
+
+35. What is the `document.querySelector` method used for?
+   - a) To select an element by its ID
+   - b) To select an element by its class name
+   - c) **To select an element based on a CSS selector**
+   - d) To select all elements with a specific attribute
+
+36. What does the `
